@@ -21,5 +21,5 @@ set hlsearch
 set history=1000
 set wildmenu
 set wildmode=list:longest
-set colorcolumn=120
+set colorcolumn=120,80
 highlight ColorColumn ctermbg=gray
